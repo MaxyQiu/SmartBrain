@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Choco cooky';
+font-style: normal;
+font-weight: normal;
+src: local('Choco cooky'), url('Chococooky.woff') format('woff');
+}
+
+p{
+  font-family: 'Choco cooky';
+font-weight: 400;
+color: #3BC5CA;
+}
